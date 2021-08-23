@@ -1,2 +1,1 @@
 # charts
-helm charts
